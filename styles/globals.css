@@ -7,8 +7,15 @@ body {
 }
 
 a {
-  color: inherit;
+  color: purple;
   text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+img{
+  width: 100%;
+  display: block;
 }
 
 * {
